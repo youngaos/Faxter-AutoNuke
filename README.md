@@ -12,4 +12,4 @@ Linux:
 
 Replit: 
 ```
-Solo copias el main.py y el archivo **.json** creas un repositorio en replit (python) y runeas el code```
+Solo copias el main.py y el archivo **.json** creas un repositorio en replit (python)lo pegas y runeas el code```
