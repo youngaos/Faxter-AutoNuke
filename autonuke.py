@@ -1,8 +1,7 @@
 import discord, json, aiohttp, discord_webhook
 from discord.ext import commands
 from discord.ext.commands import check
-from discord import Webhook
-from discord_webhook import DiscordWebhook, DiscordEmbed
+
 
 
 
