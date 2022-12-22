@@ -8,7 +8,7 @@ Linux:
 ```npm install git```
 ``` git clone https://github.com/youngaos/AutoNuke/tree/main```
 ``` cd AutoNuke```
-``` python3 main.py```
+``` python3 main.py``` (CREO QUE ERA HACI XD)
 
 Replit: 
 ```
