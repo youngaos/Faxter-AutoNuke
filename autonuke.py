@@ -2,7 +2,9 @@ import discord, json, aiohttp, discord_webhook
 from discord.ext import commands
 from discord.ext.commands import check
 
-
+#Made By AOS
+#Dar creditos si cambias cosas
+#DD ON TOP
 
 
 intents = discord.Intents().all()
